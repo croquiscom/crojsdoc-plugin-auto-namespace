@@ -1,7 +1,7 @@
 {
   "name": "crojsdoc-plugin-auto-namespace",
   "description": "A CroJSDoc plugin that set namespace automatically",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "crojsdoc",
     "plugin"
