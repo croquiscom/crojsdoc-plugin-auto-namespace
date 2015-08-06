@@ -1,0 +1,20 @@
+{
+  "name": "crojsdoc-plugin-auto-namespace",
+  "description": "A CroJSDoc plugin that set namespace automatically",
+  "version": "0.1.0",
+  "keywords": [
+    "crojsdoc",
+    "plugin"
+  ],
+  "homepage": "https://github.com/croquiscom/crojsdoc-plugin-auto-namespace",
+  "bugs": {
+    "url": "https://github.com/croquiscom/crojsdoc-plugin-auto-namespace/issues"
+  },
+  "repository": "croquiscom/crojsdoc-plugin-auto-namespace",
+  "author": "Sangmin Yoon <sangmin.yoon@croquis.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "coffee -c -o lib src"
+  }
+}
